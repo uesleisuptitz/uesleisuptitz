@@ -7,10 +7,9 @@ Nas minhas informações constam coisas como como desenvolvedor, seja web, mobil
 
 Sou um desenvolvedor fullstack. Mesmo assim, atualmente estou investindo meu tempo de estudo em UX para ser um ótimo desenvolvedor front-end.
 
- Estou trabalhando na **Paipe - Tecnologia e Inovação** :black_heart:
- <br/> Buscando colaborar com projetos em Front-end usando React
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
+ :black_heart: Estou trabalhando na **Paipe - Tecnologia e Inovação**
+ <br/> :computer: &nbsp; Minha stack: React, Node.js, React Native, Next.js e Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, jogos e séries
  <br/> [![Gmail Badge](https://img.shields.io/badge/-uesleisuptitz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uesleisuptitz@gmail.com)](mailto:uesleisuptitz@gmail.com)
- <br/>
+
 
