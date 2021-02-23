@@ -10,6 +10,8 @@ Sou um desenvolvedor fullstack. Mesmo assim, atualmente estou investindo meu tem
  <br/> :black_heart: &nbsp; Estou trabalhando na **Paipe - Tecnologia e Inovação**
  <br/> :computer: &nbsp; Minha stack: React, Node.js, React Native, Next.js e Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, jogos e séries
- <br/> [![Gmail Badge](https://img.shields.io/badge/-uesleisuptitz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uesleisuptitz@gmail.com)](mailto:uesleisuptitz@gmail.com)
+ <br/> :email: &nbsp; Entre em contato comigo:
+ •[![Gmail Badge](https://img.shields.io/badge/-uesleisuptitz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uesleisuptitz@gmail.com)](mailto:uesleisuptitz@gmail.com)
+ •<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="light" data-vanity="uéslei-suptitz"><a class="LI-simple-link" href='https://br.linkedin.com/in/u%C3%A9slei-suptitz?trk=profile-badge'>Uéslei Suptitz</a></div>
 
 
