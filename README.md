@@ -1,35 +1,18 @@
-### Hi there 👋
-
-<!--
-**uesleisuptitz/uesleisuptitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/uesleisuptitz.png">
 
 
-# Thiago Marinho
+# Uéslei Suptitz
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+## Fala galera!
+Nas minhas informações constam coisas como como desenvolvedor, seja web, mobile, front-end ou back-end. Mas a verdade é que sou um grande fã de tecnologia e amante de desenvolvimento.
+Sou um FullStack Developer :computer:. Atualmente estou investindo meu tempo de estudo em UX para ser um ótimo desenvolvedor front-end.
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+ Estou trabalhando na **Paipe - Tecnologia e Inovação**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-uesleisuptitz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uesleisuptitz/)](https://www.linkedin.com/in/uesleisuptitz/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-uesleisuptitz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uesleisuptitz@gmail.com)](mailto:uesleisuptitz@gmail.com)
 
