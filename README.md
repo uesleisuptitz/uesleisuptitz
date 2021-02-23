@@ -1,5 +1,4 @@
-<img width="auto" src="https://github.com/uesleisuptitz.png">
-
+<img width="100px" src="https://github.com/uesleisuptitz.png" >
 
 # Uéslei Suptitz
 
@@ -13,5 +12,5 @@ Sou um desenvolvedor fullstack. Mesmo assim, atualmente estou investindo meu tem
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
  <br/> [![Gmail Badge](https://img.shields.io/badge/-uesleisuptitz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uesleisuptitz@gmail.com)](mailto:uesleisuptitz@gmail.com)
- <br/> [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uéslei-suptitz/)](https://www.linkedin.com/in/uéslei-suptitz/)
+ <br/>
 
