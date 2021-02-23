@@ -1,8 +1,6 @@
 <img width="100px" src="https://github.com/uesleisuptitz.png" >
 
-# Uéslei Suptitz
-
-## Fala galera!
+## Uéslei Suptitz
 Nas minhas informações constam coisas como como desenvolvedor, seja web, mobile, front-end ou back-end. Mas a verdade é que sou um grande fã de tecnologia e amante de desenvolvimento.
 
 Sou um desenvolvedor fullstack. Mesmo assim, atualmente estou investindo meu tempo de estudo em UX para ser um ótimo desenvolvedor front-end.
