@@ -1,5 +1,5 @@
 ## Opa, tranquilo?
-Sou um desenvolvedor fullstack. Mesmo assim, atualmente estou investindo meu tempo de estudo em UX para ser um ótimo desenvolvedor front-end. Curto fazer meu trabalho com profissionalismo e agilidade e ajudar a comunidade quando posso. Aproveito o meu tempo livre com estudo, jogos e principalmente com as pessoas que eu amo.
+Sou um desenvolvedor fullstack. Mesmo assim, atualmente estou investindo meu tempo de estudo em UX para ser um ótimo desenvolvedor front-end. Curto fazer meu trabalho com profissionalismo e agilidade e ajudar a comunidade quando posso. Aproveito o meu tempo livre com estudos, jogos e principalmente com as pessoas que eu amo.
 
  <br/> :black_heart: &nbsp; Atualmente estou trabalhando na **Paipe - Tecnologia e Inovação**;
  <br/> :computer: &nbsp; Minha stack inclui: ReactJS, Node.js, React Native, Next.js e Typescript;
